@@ -129,6 +129,30 @@ c_code_practice/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/c_code_practice.dir/build.make CMakeFiles/c_code_practice.dir/build
 .PHONY : c_code_practice/fast
 
+04-02-26/stdio.o: 04-02-26/stdio.c.o
+.PHONY : 04-02-26/stdio.o
+
+# target to build an object file
+04-02-26/stdio.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/c_code_practice.dir/build.make CMakeFiles/c_code_practice.dir/04-02-26/stdio.c.o
+.PHONY : 04-02-26/stdio.c.o
+
+04-02-26/stdio.i: 04-02-26/stdio.c.i
+.PHONY : 04-02-26/stdio.i
+
+# target to preprocess a source file
+04-02-26/stdio.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/c_code_practice.dir/build.make CMakeFiles/c_code_practice.dir/04-02-26/stdio.c.i
+.PHONY : 04-02-26/stdio.c.i
+
+04-02-26/stdio.s: 04-02-26/stdio.c.s
+.PHONY : 04-02-26/stdio.s
+
+# target to generate assembly for a file
+04-02-26/stdio.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/c_code_practice.dir/build.make CMakeFiles/c_code_practice.dir/04-02-26/stdio.c.s
+.PHONY : 04-02-26/stdio.c.s
+
 functions/functions.o: functions/functions.c.o
 .PHONY : functions/functions.o
 
@@ -186,6 +210,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... c_code_practice"
+	@echo "... 04-02-26/stdio.o"
+	@echo "... 04-02-26/stdio.i"
+	@echo "... 04-02-26/stdio.s"
 	@echo "... functions/functions.o"
 	@echo "... functions/functions.i"
 	@echo "... functions/functions.s"

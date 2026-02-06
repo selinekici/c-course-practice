@@ -1,40 +1,46 @@
 #include <stdio.h>
 #include "functions/functions.h"
+#include "04-02-26/stdio.h"
 
 int main() {
 
 
-    int x =  ndigit(square(get_max2(2,5)));
-    printf("%d\n", x);
+    hello();
+    print_age(10);
+
+    get_age();
+
+    int a = get_num();
+    printf("Entered num: %d\n", a);
+
+    int b;
+    int c;
+    printf("Enter the two numbers: ");
+    scanf("%d%d", &b, &c);
+
+    int result = addition(b, c);
+    printf("Result is %d", result);
+
+    print_symbol();
+
+    print_array();
+
+    int k;
+    int t;
+
+    printf("Enter the two numbers: ");
+    k = get_number();
+    t = get_number();
+
+    int res = subtraction(k, t);
+    print_result(res);
 
 
-
-    int a, b, c, d;
-
-    printf("Enter the 4 number: ");
-    scanf("%d%d%d%d", &a, &b, &c, &d);
-
-    int max = get_max(get_max(a, b), get_max(c, d));
-
-    printf("max = %d\n", max);
-
-
-    test();
-
-
-    int arr[] = {21, 522, 31, 1, 90, 11};
-
-    int size = 6;
-
-    int result = maxValue(arr, size);
-    printf("%d", result);
-
-
-
-    int N = sizeof(arr)/ sizeof(arr[0]);
-
-    printf("%d", maxValue(arr, N));
+    puts("AX211BBB//A!!");
 
 
 }
+
+
+
 

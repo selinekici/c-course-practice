@@ -6,6 +6,8 @@
 
 #IncludeRegexTransform: 
 
+/Users/selinekici/CLionProjects/c-code-practice/04-02-26/stdio.h
+
 /Users/selinekici/CLionProjects/c-code-practice/functions/functions.h
 
 /Users/selinekici/CLionProjects/c-code-practice/main.c
@@ -13,4 +15,6 @@ stdio.h
 -
 functions/functions.h
 /Users/selinekici/CLionProjects/c-code-practice/functions/functions.h
+04-02-26/stdio.h
+/Users/selinekici/CLionProjects/c-code-practice/04-02-26/stdio.h
 

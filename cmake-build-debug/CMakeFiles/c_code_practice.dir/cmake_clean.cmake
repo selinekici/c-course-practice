@@ -1,4 +1,5 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/c_code_practice.dir/04-02-26/stdio.c.o"
   "CMakeFiles/c_code_practice.dir/functions/functions.c.o"
   "CMakeFiles/c_code_practice.dir/main.c.o"
   "c_code_practice"

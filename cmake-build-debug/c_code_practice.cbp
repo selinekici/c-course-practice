@@ -78,6 +78,12 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/Users/selinekici/CLionProjects/c-code-practice/04-02-26/stdio.c">
+			<Option target="c_code_practice"/>
+		</Unit>
+		<Unit filename="/Users/selinekici/CLionProjects/c-code-practice/04-02-26/stdio.h">
+			<Option target="c_code_practice"/>
+		</Unit>
 		<Unit filename="/Users/selinekici/CLionProjects/c-code-practice/functions/functions.c">
 			<Option target="c_code_practice"/>
 		</Unit>

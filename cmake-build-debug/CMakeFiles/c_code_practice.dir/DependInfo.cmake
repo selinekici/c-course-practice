@@ -8,6 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
+  "/Users/selinekici/CLionProjects/c-code-practice/04-02-26/stdio.c" "/Users/selinekici/CLionProjects/c-code-practice/cmake-build-debug/CMakeFiles/c_code_practice.dir/04-02-26/stdio.c.o"
   "/Users/selinekici/CLionProjects/c-code-practice/functions/functions.c" "/Users/selinekici/CLionProjects/c-code-practice/cmake-build-debug/CMakeFiles/c_code_practice.dir/functions/functions.c.o"
   "/Users/selinekici/CLionProjects/c-code-practice/main.c" "/Users/selinekici/CLionProjects/c-code-practice/cmake-build-debug/CMakeFiles/c_code_practice.dir/main.c.o"
   )
