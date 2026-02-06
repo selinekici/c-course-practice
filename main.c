@@ -47,6 +47,7 @@ int main() {
 
     calculate_exam(57, 55, 0);
 
+
 }
 
 
