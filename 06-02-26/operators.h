@@ -1,0 +1,8 @@
+//
+// Created by Selin Ekici on 6.02.2026.
+//
+
+#ifndef C_CODE_PRACTICE_OPERATORS_H
+#define C_CODE_PRACTICE_OPERATORS_H
+
+#endif //C_CODE_PRACTICE_OPERATORS_H
