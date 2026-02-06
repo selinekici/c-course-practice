@@ -153,6 +153,30 @@ c_code_practice/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/c_code_practice.dir/build.make CMakeFiles/c_code_practice.dir/04-02-26/stdio.c.s
 .PHONY : 04-02-26/stdio.c.s
 
+06-02-26/operators.o: 06-02-26/operators.c.o
+.PHONY : 06-02-26/operators.o
+
+# target to build an object file
+06-02-26/operators.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/c_code_practice.dir/build.make CMakeFiles/c_code_practice.dir/06-02-26/operators.c.o
+.PHONY : 06-02-26/operators.c.o
+
+06-02-26/operators.i: 06-02-26/operators.c.i
+.PHONY : 06-02-26/operators.i
+
+# target to preprocess a source file
+06-02-26/operators.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/c_code_practice.dir/build.make CMakeFiles/c_code_practice.dir/06-02-26/operators.c.i
+.PHONY : 06-02-26/operators.c.i
+
+06-02-26/operators.s: 06-02-26/operators.c.s
+.PHONY : 06-02-26/operators.s
+
+# target to generate assembly for a file
+06-02-26/operators.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/c_code_practice.dir/build.make CMakeFiles/c_code_practice.dir/06-02-26/operators.c.s
+.PHONY : 06-02-26/operators.c.s
+
 functions/functions.o: functions/functions.c.o
 .PHONY : functions/functions.o
 
@@ -213,6 +237,9 @@ help:
 	@echo "... 04-02-26/stdio.o"
 	@echo "... 04-02-26/stdio.i"
 	@echo "... 04-02-26/stdio.s"
+	@echo "... 06-02-26/operators.o"
+	@echo "... 06-02-26/operators.i"
+	@echo "... 06-02-26/operators.s"
 	@echo "... functions/functions.o"
 	@echo "... functions/functions.i"
 	@echo "... functions/functions.s"

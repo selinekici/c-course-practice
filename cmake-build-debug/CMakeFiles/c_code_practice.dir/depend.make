@@ -3,10 +3,13 @@
 
 CMakeFiles/c_code_practice.dir/04-02-26/stdio.c.o: \
  ../04-02-26/stdio.c
+CMakeFiles/c_code_practice.dir/06-02-26/operators.c.o: \
+ ../06-02-26/operators.c
 CMakeFiles/c_code_practice.dir/functions/functions.c.o: \
  ../functions/functions.c \
  ../functions/functions.h
 CMakeFiles/c_code_practice.dir/main.c.o: \
  ../04-02-26/stdio.h \
+ ../06-02-26/operators.h \
  ../functions/functions.h \
  ../main.c

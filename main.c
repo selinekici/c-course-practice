@@ -1,43 +1,51 @@
 #include <stdio.h>
 #include "functions/functions.h"
 #include "04-02-26/stdio.h"
+#include "06-02-26/operators.h"
 
 int main() {
 
+    binary_arithmetic_operators(10, 5);
 
-    hello();
-    print_age(10);
-
-    get_age();
-
-    int a = get_num();
-    printf("Entered num: %d\n", a);
-
-    int b;
-    int c;
-    printf("Enter the two numbers: ");
-    scanf("%d%d", &b, &c);
-
-    int result = addition(b, c);
-    printf("Result is %d", result);
-
-    print_symbol();
-
-    print_array();
-
-    int k;
-    int t;
-
-    printf("Enter the two numbers: ");
-    k = get_number();
-    t = get_number();
-
-    int res = subtraction(k, t);
-    print_result(res);
+    unary_arithmetic_operators(2);
 
 
-    puts("AX211BBB//A!!");
+    int result = multiple_operators(10, 5, 2);
 
+    printf("Expression result is %d\n", result);
+
+
+    logical_operators();
+
+    log_comparison();
+    log_comparison2();
+
+    precedence_operator();
+
+    what_time();
+
+    mod_operator();
+
+    comparison_operator();
+
+    condition_num();
+
+    mixed_operator();
+
+
+
+    //0 is false, non zero is true
+    int speed = 120;
+    int seatbelt = 0;
+    int alcohol = 0;
+
+    if (is_fine(speed, seatbelt, alcohol)) {
+        printf("Fine applied\n");
+    } else {
+        printf("No fine\n");
+    }
+
+    calculate_exam(57, 55, 0);
 
 }
 
