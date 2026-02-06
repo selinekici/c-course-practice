@@ -32,6 +32,4 @@ int is_fine(int speed, int seatbelt, int alcohol);
 
 void calculate_exam(float midterm, float final, int non_attendance);
 
-
-
 #endif //C_CODE_PRACTICE_OPERATORS_H

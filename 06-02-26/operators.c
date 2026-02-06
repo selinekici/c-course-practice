@@ -67,8 +67,8 @@ void log_comparison2(){
 
 void precedence_operator() {
     int r;
-
     r = 3 + 4 * 2 > 10 && 5; // [( 3 + (4*2) ) > 10 ] && 5 =====> 11> 10 = 1 && 5 =>   res = 1
+
     printf("result = %d\n", r);
 }
 
