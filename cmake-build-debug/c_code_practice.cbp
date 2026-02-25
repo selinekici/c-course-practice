@@ -90,6 +90,24 @@
 		<Unit filename="/Users/selinekici/CLionProjects/c-code-practice/06-02-26/operators.h">
 			<Option target="c_code_practice"/>
 		</Unit>
+		<Unit filename="/Users/selinekici/CLionProjects/c-code-practice/09-02-26/data-types.c">
+			<Option target="c_code_practice"/>
+		</Unit>
+		<Unit filename="/Users/selinekici/CLionProjects/c-code-practice/09-02-26/data-types.h">
+			<Option target="c_code_practice"/>
+		</Unit>
+		<Unit filename="/Users/selinekici/CLionProjects/c-code-practice/15-02-26/c-practice.c">
+			<Option target="c_code_practice"/>
+		</Unit>
+		<Unit filename="/Users/selinekici/CLionProjects/c-code-practice/15-02-26/c-practice.h">
+			<Option target="c_code_practice"/>
+		</Unit>
+		<Unit filename="/Users/selinekici/CLionProjects/c-code-practice/25-02-26/time-library/time-lib.c">
+			<Option target="c_code_practice"/>
+		</Unit>
+		<Unit filename="/Users/selinekici/CLionProjects/c-code-practice/25-02-26/time-library/time-lib.h">
+			<Option target="c_code_practice"/>
+		</Unit>
 		<Unit filename="/Users/selinekici/CLionProjects/c-code-practice/functions/functions.c">
 			<Option target="c_code_practice"/>
 		</Unit>

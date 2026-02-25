@@ -118,12 +118,54 @@ CMakeFiles/c_code_practice.dir/06-02-26/operators.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/c_code_practice.dir/06-02-26/operators.c.s"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/selinekici/CLionProjects/c-code-practice/06-02-26/operators.c -o CMakeFiles/c_code_practice.dir/06-02-26/operators.c.s
 
+CMakeFiles/c_code_practice.dir/09-02-26/data-types.c.o: CMakeFiles/c_code_practice.dir/flags.make
+CMakeFiles/c_code_practice.dir/09-02-26/data-types.c.o: ../09-02-26/data-types.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/selinekici/CLionProjects/c-code-practice/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/c_code_practice.dir/09-02-26/data-types.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/c_code_practice.dir/09-02-26/data-types.c.o -c /Users/selinekici/CLionProjects/c-code-practice/09-02-26/data-types.c
+
+CMakeFiles/c_code_practice.dir/09-02-26/data-types.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/c_code_practice.dir/09-02-26/data-types.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/selinekici/CLionProjects/c-code-practice/09-02-26/data-types.c > CMakeFiles/c_code_practice.dir/09-02-26/data-types.c.i
+
+CMakeFiles/c_code_practice.dir/09-02-26/data-types.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/c_code_practice.dir/09-02-26/data-types.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/selinekici/CLionProjects/c-code-practice/09-02-26/data-types.c -o CMakeFiles/c_code_practice.dir/09-02-26/data-types.c.s
+
+CMakeFiles/c_code_practice.dir/15-02-26/c-practice.c.o: CMakeFiles/c_code_practice.dir/flags.make
+CMakeFiles/c_code_practice.dir/15-02-26/c-practice.c.o: ../15-02-26/c-practice.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/selinekici/CLionProjects/c-code-practice/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/c_code_practice.dir/15-02-26/c-practice.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/c_code_practice.dir/15-02-26/c-practice.c.o -c /Users/selinekici/CLionProjects/c-code-practice/15-02-26/c-practice.c
+
+CMakeFiles/c_code_practice.dir/15-02-26/c-practice.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/c_code_practice.dir/15-02-26/c-practice.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/selinekici/CLionProjects/c-code-practice/15-02-26/c-practice.c > CMakeFiles/c_code_practice.dir/15-02-26/c-practice.c.i
+
+CMakeFiles/c_code_practice.dir/15-02-26/c-practice.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/c_code_practice.dir/15-02-26/c-practice.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/selinekici/CLionProjects/c-code-practice/15-02-26/c-practice.c -o CMakeFiles/c_code_practice.dir/15-02-26/c-practice.c.s
+
+CMakeFiles/c_code_practice.dir/25-02-26/time-library/time-lib.c.o: CMakeFiles/c_code_practice.dir/flags.make
+CMakeFiles/c_code_practice.dir/25-02-26/time-library/time-lib.c.o: ../25-02-26/time-library/time-lib.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/selinekici/CLionProjects/c-code-practice/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object CMakeFiles/c_code_practice.dir/25-02-26/time-library/time-lib.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/c_code_practice.dir/25-02-26/time-library/time-lib.c.o -c /Users/selinekici/CLionProjects/c-code-practice/25-02-26/time-library/time-lib.c
+
+CMakeFiles/c_code_practice.dir/25-02-26/time-library/time-lib.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/c_code_practice.dir/25-02-26/time-library/time-lib.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/selinekici/CLionProjects/c-code-practice/25-02-26/time-library/time-lib.c > CMakeFiles/c_code_practice.dir/25-02-26/time-library/time-lib.c.i
+
+CMakeFiles/c_code_practice.dir/25-02-26/time-library/time-lib.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/c_code_practice.dir/25-02-26/time-library/time-lib.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/selinekici/CLionProjects/c-code-practice/25-02-26/time-library/time-lib.c -o CMakeFiles/c_code_practice.dir/25-02-26/time-library/time-lib.c.s
+
 # Object files for target c_code_practice
 c_code_practice_OBJECTS = \
 "CMakeFiles/c_code_practice.dir/main.c.o" \
 "CMakeFiles/c_code_practice.dir/functions/functions.c.o" \
 "CMakeFiles/c_code_practice.dir/04-02-26/stdio.c.o" \
-"CMakeFiles/c_code_practice.dir/06-02-26/operators.c.o"
+"CMakeFiles/c_code_practice.dir/06-02-26/operators.c.o" \
+"CMakeFiles/c_code_practice.dir/09-02-26/data-types.c.o" \
+"CMakeFiles/c_code_practice.dir/15-02-26/c-practice.c.o" \
+"CMakeFiles/c_code_practice.dir/25-02-26/time-library/time-lib.c.o"
 
 # External object files for target c_code_practice
 c_code_practice_EXTERNAL_OBJECTS =
@@ -132,9 +174,12 @@ c_code_practice: CMakeFiles/c_code_practice.dir/main.c.o
 c_code_practice: CMakeFiles/c_code_practice.dir/functions/functions.c.o
 c_code_practice: CMakeFiles/c_code_practice.dir/04-02-26/stdio.c.o
 c_code_practice: CMakeFiles/c_code_practice.dir/06-02-26/operators.c.o
+c_code_practice: CMakeFiles/c_code_practice.dir/09-02-26/data-types.c.o
+c_code_practice: CMakeFiles/c_code_practice.dir/15-02-26/c-practice.c.o
+c_code_practice: CMakeFiles/c_code_practice.dir/25-02-26/time-library/time-lib.c.o
 c_code_practice: CMakeFiles/c_code_practice.dir/build.make
 c_code_practice: CMakeFiles/c_code_practice.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/selinekici/CLionProjects/c-code-practice/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking C executable c_code_practice"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/selinekici/CLionProjects/c-code-practice/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Linking C executable c_code_practice"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/c_code_practice.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

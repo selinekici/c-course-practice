@@ -177,6 +177,78 @@ c_code_practice/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/c_code_practice.dir/build.make CMakeFiles/c_code_practice.dir/06-02-26/operators.c.s
 .PHONY : 06-02-26/operators.c.s
 
+09-02-26/data-types.o: 09-02-26/data-types.c.o
+.PHONY : 09-02-26/data-types.o
+
+# target to build an object file
+09-02-26/data-types.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/c_code_practice.dir/build.make CMakeFiles/c_code_practice.dir/09-02-26/data-types.c.o
+.PHONY : 09-02-26/data-types.c.o
+
+09-02-26/data-types.i: 09-02-26/data-types.c.i
+.PHONY : 09-02-26/data-types.i
+
+# target to preprocess a source file
+09-02-26/data-types.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/c_code_practice.dir/build.make CMakeFiles/c_code_practice.dir/09-02-26/data-types.c.i
+.PHONY : 09-02-26/data-types.c.i
+
+09-02-26/data-types.s: 09-02-26/data-types.c.s
+.PHONY : 09-02-26/data-types.s
+
+# target to generate assembly for a file
+09-02-26/data-types.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/c_code_practice.dir/build.make CMakeFiles/c_code_practice.dir/09-02-26/data-types.c.s
+.PHONY : 09-02-26/data-types.c.s
+
+15-02-26/c-practice.o: 15-02-26/c-practice.c.o
+.PHONY : 15-02-26/c-practice.o
+
+# target to build an object file
+15-02-26/c-practice.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/c_code_practice.dir/build.make CMakeFiles/c_code_practice.dir/15-02-26/c-practice.c.o
+.PHONY : 15-02-26/c-practice.c.o
+
+15-02-26/c-practice.i: 15-02-26/c-practice.c.i
+.PHONY : 15-02-26/c-practice.i
+
+# target to preprocess a source file
+15-02-26/c-practice.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/c_code_practice.dir/build.make CMakeFiles/c_code_practice.dir/15-02-26/c-practice.c.i
+.PHONY : 15-02-26/c-practice.c.i
+
+15-02-26/c-practice.s: 15-02-26/c-practice.c.s
+.PHONY : 15-02-26/c-practice.s
+
+# target to generate assembly for a file
+15-02-26/c-practice.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/c_code_practice.dir/build.make CMakeFiles/c_code_practice.dir/15-02-26/c-practice.c.s
+.PHONY : 15-02-26/c-practice.c.s
+
+25-02-26/time-library/time-lib.o: 25-02-26/time-library/time-lib.c.o
+.PHONY : 25-02-26/time-library/time-lib.o
+
+# target to build an object file
+25-02-26/time-library/time-lib.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/c_code_practice.dir/build.make CMakeFiles/c_code_practice.dir/25-02-26/time-library/time-lib.c.o
+.PHONY : 25-02-26/time-library/time-lib.c.o
+
+25-02-26/time-library/time-lib.i: 25-02-26/time-library/time-lib.c.i
+.PHONY : 25-02-26/time-library/time-lib.i
+
+# target to preprocess a source file
+25-02-26/time-library/time-lib.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/c_code_practice.dir/build.make CMakeFiles/c_code_practice.dir/25-02-26/time-library/time-lib.c.i
+.PHONY : 25-02-26/time-library/time-lib.c.i
+
+25-02-26/time-library/time-lib.s: 25-02-26/time-library/time-lib.c.s
+.PHONY : 25-02-26/time-library/time-lib.s
+
+# target to generate assembly for a file
+25-02-26/time-library/time-lib.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/c_code_practice.dir/build.make CMakeFiles/c_code_practice.dir/25-02-26/time-library/time-lib.c.s
+.PHONY : 25-02-26/time-library/time-lib.c.s
+
 functions/functions.o: functions/functions.c.o
 .PHONY : functions/functions.o
 
@@ -240,6 +312,15 @@ help:
 	@echo "... 06-02-26/operators.o"
 	@echo "... 06-02-26/operators.i"
 	@echo "... 06-02-26/operators.s"
+	@echo "... 09-02-26/data-types.o"
+	@echo "... 09-02-26/data-types.i"
+	@echo "... 09-02-26/data-types.s"
+	@echo "... 15-02-26/c-practice.o"
+	@echo "... 15-02-26/c-practice.i"
+	@echo "... 15-02-26/c-practice.s"
+	@echo "... 25-02-26/time-library/time-lib.o"
+	@echo "... 25-02-26/time-library/time-lib.i"
+	@echo "... 25-02-26/time-library/time-lib.s"
 	@echo "... functions/functions.o"
 	@echo "... functions/functions.i"
 	@echo "... functions/functions.s"

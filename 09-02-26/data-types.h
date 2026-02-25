@@ -5,4 +5,12 @@
 #ifndef C_CODE_PRACTICE_DATA_TYPES_H
 #define C_CODE_PRACTICE_DATA_TYPES_H
 
+void cal_age();
+
+void calculate_interest();
+
+void divide_per_person();
+
+
+
 #endif //C_CODE_PRACTICE_DATA_TYPES_H

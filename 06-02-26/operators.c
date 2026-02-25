@@ -16,7 +16,10 @@ void binary_arithmetic_operators(int a, int b){
 void unary_arithmetic_operators(int a){
 
     printf("%d\n", a++);
+    printf("%d\n", a++);
     printf("%d\n", ++a);
+    printf("%d\n", a++);
+
     printf("%d\n", --a);
     printf("%d\n", a--);
     printf("%d\n", +a);
@@ -158,6 +161,9 @@ void calculate_exam(float midterm, float final, int non_attendance){
     printf("Bonus: %d\n", bonus);
     printf("Is passed? %d\n", is_pass);
 }
+
+
+
 
 
 

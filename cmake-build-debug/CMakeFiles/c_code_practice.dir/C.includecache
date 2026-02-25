@@ -10,10 +10,18 @@
 
 /Users/selinekici/CLionProjects/c-code-practice/06-02-26/operators.h
 
+/Users/selinekici/CLionProjects/c-code-practice/09-02-26/data-types.h
+
+/Users/selinekici/CLionProjects/c-code-practice/15-02-26/c-practice.h
+
+/Users/selinekici/CLionProjects/c-code-practice/25-02-26/time-library/time-lib.h
+
 /Users/selinekici/CLionProjects/c-code-practice/functions/functions.h
 
 /Users/selinekici/CLionProjects/c-code-practice/main.c
 stdio.h
+-
+stdlib.h
 -
 functions/functions.h
 /Users/selinekici/CLionProjects/c-code-practice/functions/functions.h
@@ -21,4 +29,14 @@ functions/functions.h
 /Users/selinekici/CLionProjects/c-code-practice/04-02-26/stdio.h
 06-02-26/operators.h
 /Users/selinekici/CLionProjects/c-code-practice/06-02-26/operators.h
+09-02-26/data-types.h
+/Users/selinekici/CLionProjects/c-code-practice/09-02-26/data-types.h
+15-02-26/c-practice.h
+/Users/selinekici/CLionProjects/c-code-practice/15-02-26/c-practice.h
+25-02-26/time-library/time-lib.h
+/Users/selinekici/CLionProjects/c-code-practice/25-02-26/time-library/time-lib.h
+time.h
+-
+unistd.h
+-
 

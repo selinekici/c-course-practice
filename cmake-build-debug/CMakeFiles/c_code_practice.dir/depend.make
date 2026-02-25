@@ -5,11 +5,22 @@ CMakeFiles/c_code_practice.dir/04-02-26/stdio.c.o: \
  ../04-02-26/stdio.c
 CMakeFiles/c_code_practice.dir/06-02-26/operators.c.o: \
  ../06-02-26/operators.c
+CMakeFiles/c_code_practice.dir/09-02-26/data-types.c.o: \
+ ../09-02-26/data-types.c
+CMakeFiles/c_code_practice.dir/15-02-26/c-practice.c.o: \
+ ../15-02-26/c-practice.c \
+ ../15-02-26/c-practice.h
+CMakeFiles/c_code_practice.dir/25-02-26/time-library/time-lib.c.o: \
+ ../25-02-26/time-library/time-lib.c \
+ ../25-02-26/time-library/time-lib.h
 CMakeFiles/c_code_practice.dir/functions/functions.c.o: \
  ../functions/functions.c \
  ../functions/functions.h
 CMakeFiles/c_code_practice.dir/main.c.o: \
  ../04-02-26/stdio.h \
  ../06-02-26/operators.h \
+ ../09-02-26/data-types.h \
+ ../15-02-26/c-practice.h \
+ ../25-02-26/time-library/time-lib.h \
  ../functions/functions.h \
  ../main.c

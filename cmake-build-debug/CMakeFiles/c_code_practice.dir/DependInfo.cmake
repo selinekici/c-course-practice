@@ -10,6 +10,9 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_CHECK_C
   "/Users/selinekici/CLionProjects/c-code-practice/04-02-26/stdio.c" "/Users/selinekici/CLionProjects/c-code-practice/cmake-build-debug/CMakeFiles/c_code_practice.dir/04-02-26/stdio.c.o"
   "/Users/selinekici/CLionProjects/c-code-practice/06-02-26/operators.c" "/Users/selinekici/CLionProjects/c-code-practice/cmake-build-debug/CMakeFiles/c_code_practice.dir/06-02-26/operators.c.o"
+  "/Users/selinekici/CLionProjects/c-code-practice/09-02-26/data-types.c" "/Users/selinekici/CLionProjects/c-code-practice/cmake-build-debug/CMakeFiles/c_code_practice.dir/09-02-26/data-types.c.o"
+  "/Users/selinekici/CLionProjects/c-code-practice/15-02-26/c-practice.c" "/Users/selinekici/CLionProjects/c-code-practice/cmake-build-debug/CMakeFiles/c_code_practice.dir/15-02-26/c-practice.c.o"
+  "/Users/selinekici/CLionProjects/c-code-practice/25-02-26/time-library/time-lib.c" "/Users/selinekici/CLionProjects/c-code-practice/cmake-build-debug/CMakeFiles/c_code_practice.dir/25-02-26/time-library/time-lib.c.o"
   "/Users/selinekici/CLionProjects/c-code-practice/functions/functions.c" "/Users/selinekici/CLionProjects/c-code-practice/cmake-build-debug/CMakeFiles/c_code_practice.dir/functions/functions.c.o"
   "/Users/selinekici/CLionProjects/c-code-practice/main.c" "/Users/selinekici/CLionProjects/c-code-practice/cmake-build-debug/CMakeFiles/c_code_practice.dir/main.c.o"
   )
